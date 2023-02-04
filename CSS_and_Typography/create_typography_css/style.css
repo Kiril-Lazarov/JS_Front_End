@@ -1,0 +1,44 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+body h1,h2,h3,h4,h5,h6 {
+    font-family: Georgia, serif;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+
+}
+
+
+.head {
+    border: solid darkgray 2px;
+    background-color: darkgray;
+
+}
+
+.odd_row {
+    background-color: rgb(221,221,221);
+}
+
+td {
+    width: 500px;
+    border: solid #CCCCCC 2px;
+
+    margin: 0;
+}
+
+blockquote {
+    border-left: solid rgb(221, 221, 221) 3px;
+    font-style: italic;
+    padding-left: 10px;
+}
+
+.name {
+    text-align: right;
+}
