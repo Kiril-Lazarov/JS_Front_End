@@ -1,0 +1,24 @@
+@font-face {
+    src: url('https://fonts.googleapis.com/css?family=Montserrat');
+    font-family: Montserat, sans-serif;
+}
+
+body {
+    font-family: Montserat, sans-serif;
+    padding: 16px;
+}
+
+th {
+    background-color: lightblue;
+    width: 144px;
+    height: 32px;
+    border: solid 1px #ccc;
+    padding-left: 5px;
+}
+
+td {
+    width: 144px;
+    height: 32px;
+    border: solid #ccc 1px;
+    padding-left: 5px;
+}
