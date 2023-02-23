@@ -1,0 +1,30 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 40px;
+}
+h1 {
+    display: inline;
+}
+li {
+    margin-right: 20px;
+     display: inline-block;
+    text-align: center;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: green;
+}
+main {
+    overflow: auto;
+}
